@@ -1,8 +1,10 @@
 ## Hi there. Faithful Linux enthusiast for ~29 years.
 
-I used to enjoy problem solving and I still do but time is less: 
-* [LeetCode profile](https://leetcode.com/u/teejay76/)
-* ![Project Euler](https://projecteuler.net/profile/Ytsejam.png)
+I used to enjoy problem solving, and I still do: 
+
+[LeetCode profile](https://leetcode.com/u/teejay76/)
+
+![Project Euler](https://projecteuler.net/profile/Ytsejam.png)
 
 
 <!--
